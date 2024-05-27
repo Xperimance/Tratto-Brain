@@ -1,5 +1,5 @@
 # Tratto-Brain
-A one-page concept webpage that I made as part of a coding assignment for my job application.
+A one-page concept website that I made as part of a coding assignment for my job application.
 
 # Language
 
